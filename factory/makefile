@@ -1,4 +1,4 @@
-TARGET := main
+TARGET := main.o
 
 CXX := g++
 CXXFLAGS := -std=c++14
